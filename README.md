@@ -1,5 +1,5 @@
 # Predicting-Loan-Defaults
-Loan Defaults are predicted using prevalent macroeconomic conditions
+Loan Defaults are predicted using prevalent macroeconomic conditions in addition to conventional credit scoring features using ML classifiers, namely Logistic Regression, KNN and Random Forest.
 
 ## Instructions
 
